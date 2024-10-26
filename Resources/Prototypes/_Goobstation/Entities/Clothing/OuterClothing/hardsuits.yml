@@ -49,8 +49,8 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitBlueshield
-  name: blueshield hardsuit
-  description: A hard suit for the command's bodyguard.
+  name: Blueshield Hardsuit
+  description: A hard suit for the Blueshield Officer.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/OuterClothing/Hardsuits/bso.rsi
