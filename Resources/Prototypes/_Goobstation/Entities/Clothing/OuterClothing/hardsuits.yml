@@ -50,7 +50,7 @@
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitBlueshield
   name: blueshield hardsuit
-  description: A hardsuit for the captains personal bodyguard.
+  description: A hard suit for the command's bodyguard.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/OuterClothing/Hardsuits/bso.rsi
